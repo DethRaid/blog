@@ -57,3 +57,13 @@ eduameli:
   title: graphics programming noob
   url: https://eduameli.gitlab.io
   image_url: https://avatars.githubusercontent.com/u/165940955?v=4
+
+sarahd:
+  name: sarah "dethraid" dubois
+  title: bread maven
+  url: https://sarahshandcraftedentertainment.com/
+  image_url: https://gravatar.com/avatar/d87e36fe31b53865d78ce51bdab0652c8dda2806e4181fae69b1034f50a8400d?size=256
+  page: true
+  socials:
+    github: dethraid
+
